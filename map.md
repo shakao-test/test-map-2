@@ -20,7 +20,7 @@
 * type: tutorial
 * description: Make an arcade-style collector game!
 * tags: easy, collector, game
-* next: collector-activity2, collector-activity1a
+* next: collector-activity1a, collector-activity2
 
 * url: /skillmap/collector/collector1 
 * imageUrl: /static/skillmap/collector/collector-activity-1.gif
