@@ -58,7 +58,7 @@
 * type: tutorial
 * description: Learn to add enemy projectiles to your game!
 * tags: easy, collector, game
-* next: collector-activity4, collector-activity3a
+* next: collector-activity3a, collector-activity4
 
 * url: /skillmap/collector/collector3
 * imageUrl: /static/skillmap/collector/collector-activity-3.gif
