@@ -84,7 +84,6 @@
 * type: tutorial
 * description: Add extra lives to your collector game!
 * tags: easy, collector, game
-* next: beginner-cert-3
 
 * url: /skillmap/collector/collector4
 * imageUrl: /static/skillmap/collector/collector-activity-4.gif
