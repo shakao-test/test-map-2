@@ -55,6 +55,11 @@
 ### layout
 * kind: layout 
 * name: test
+* next: layout2
+
+### layout2
+* kind: layout 
+* name: test
 * next: collector-activity3
 
 
