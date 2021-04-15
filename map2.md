@@ -46,11 +46,16 @@
 * description: Make a few simple changes for a game that's twice as fun! 
 * tags: easy, collector, game
 * required: 1 collector
-* next: collector-activity3
+* next: layout
 
 * url: /skillmap/collector/collector2 
 * imageUrl: /static/skillmap/collector/collector-activity-2.gif
 
+
+### layout
+* kind: layout 
+* name: test
+* next: collector-activity3
 
 
 ### collector-activity3
