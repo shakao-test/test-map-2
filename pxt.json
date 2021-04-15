@@ -9,7 +9,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "map.md"
+        "map.md",
+        "map2.md"
     ],
     "testFiles": [
         "test.ts"
